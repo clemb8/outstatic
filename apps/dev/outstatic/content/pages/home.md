@@ -12,6 +12,6 @@ publishedAt: "2022-03-17T05:35:07.322Z"
 
 ## Hello!
 
-# I'm Andre, nice to meet you.
+# Let's prepare the next adventure !
 
-I'm a lead design engineer from Brazil 🇧🇷 with a focus on SaaS & Media businesses. Learn more [about me](/about), my [projects](/projects) or follow me on [𝕏](https://twitter.com/AndreVitorio).
+![](/api/outstatic/media/clemb8/outstatic/dev/apps/dev/apps/dev/public/images/signal-2025-06-24-182953-IwOT.jpeg)
