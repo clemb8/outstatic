@@ -19,7 +19,7 @@ const Footer = () => {
               .
             </p>
             <p className="hidden md:block text-sm mt-4">
-              © Andre Vitorio {new Date().getFullYear()}
+              © Our Journey {new Date().getFullYear()}
             </p>
           </div>
           <div className="flex items-center mt-4 md:mt-0">
@@ -60,7 +60,7 @@ const Footer = () => {
         </div>
         <div className="w-full flex flex-row mt-8 md:mt-12 md:hidden items-center justify-between gap-2 border-t-2 py-4">
           <p className="block md:hidden text-sm">
-            © Andre Vitorio {new Date().getFullYear()}
+            © Our Journey {new Date().getFullYear()}
           </p>
           <div className="flex flex-row gap-2 items-center ">
             <p className="text-sm">Built with</p>
