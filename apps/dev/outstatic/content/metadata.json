@@ -1,6 +1,6 @@
 {
-  "commit": "2558ddd19a742629da754ae060d353850554de02",
-  "generated": "2025-08-03T13:02:05.692Z",
+  "commit": "20ff0d346f368147ff3dc801c9401cbdcf12ab06",
+  "generated": "2025-08-03T13:02:21.894Z",
   "metadata": [
     {
       "__outstatic": {
@@ -182,8 +182,8 @@
     },
     {
       "__outstatic": {
-        "commit": "2558ddd19a742629da754ae060d353850554de02",
-        "hash": "2166990070",
+        "commit": "20ff0d346f368147ff3dc801c9401cbdcf12ab06",
+        "hash": "4123645599",
         "path": "/outstatic/content/pages/home.md"
       },
       "author": {

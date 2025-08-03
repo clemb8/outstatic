@@ -13,3 +13,5 @@ publishedAt: "2022-03-17T05:35:07.322Z"
 ## Hello!
 
 # Let's prepare the next adventure !
+
+![](/api/outstatic/media/clemb8/outstatic/dev/apps/dev/apps/dev/public/images/signal-2025-06-24-182953-A2MT.jpeg)
