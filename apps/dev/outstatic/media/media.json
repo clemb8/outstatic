@@ -1,6 +1,6 @@
 {
-  "commit": "9c38f36c91298435e83ce02ad1caffa560a36bf8",
-  "generated": "2025-08-03T13:01:08.437Z",
+  "commit": "572c8205144d73a641cfabd68bd20919a2d307e8",
+  "generated": "2025-08-03T13:01:16.087Z",
   "media": [
     {
       "__outstatic": {
@@ -143,6 +143,17 @@
       "alt": "",
       "filename": "outstatic-screenshot-Y0ND.png",
       "publishedAt": "2024-11-11T14:44:20.094Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "572c8205144d73a641cfabd68bd20919a2d307e8",
+        "hash": "2809653874",
+        "path": "apps/dev/apps/dev/public/images/signal-2025-06-24-182953-A2MT.jpeg"
+      },
+      "alt": "",
+      "filename": "signal-2025-06-24-182953-A2MT.jpeg",
+      "publishedAt": "2025-08-03T13:01:16.087Z",
       "type": "image"
     },
     {
